@@ -12,4 +12,5 @@ fun main() {
     var miComp = Computer(Cpu(), Mouse(), Screen())
     miComp.memory = 4000
     println(miComp.toString())
+    /*Fin de la cita*/
 }
